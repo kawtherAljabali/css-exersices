@@ -1,0 +1,58 @@
+ 
+body
+    {
+    	background-color:#F0F8FF
+
+    }
+
+
+div{
+            
+    	    width: 500px;
+            border:1px solid #333333;
+            padding: 1em;
+            padding-right: 0.5em; 
+            margin-top: 1em;
+            background-color: white
+
+
+        }
+        
+        span{
+            
+            font-weight: bold;
+            background-color: orange;
+            font-weight: bold;
+             padding-left: 0.5em;
+
+
+            
+            
+        }
+        
+        iq{
+            background-color: yellow;
+        }
+
+
+
+
+          #alert
+        {
+            
+    	border:dashed; border-color: red;color: red;
+    }
+
+
+
+#h{
+    
+    background-color: brown
+    
+}
+
+#hh{
+    
+    background-color: blueviolet
+    
+}

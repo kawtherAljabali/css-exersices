@@ -1,1 +1,22 @@
-/* this is for you to complete */
+ ul li ul
+    {
+        color: blue;
+    }
+    a
+    {
+        color: green;
+    }
+    ul li a
+    {
+        color: red;
+    }
+
+    ul li
+    {
+        font-weight: bold;
+    }
+    div:nth-child(2) a
+    {
+        color: purple;
+        background-color: yellow;
+    }/* this is for you to complete */
