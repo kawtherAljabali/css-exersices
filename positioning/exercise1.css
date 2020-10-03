@@ -1,0 +1,32 @@
+.four,.six,.eight,.ten{
+    
+    width: 3em;
+    text-align: center;
+    border: 1px solid #000;
+    color: white;
+    padding-left: 0px;
+    margin:2px;
+    font-weight: bold;
+    background: #00F;
+    float: left;
+    display: inline-block
+  
+    
+        
+    
+    
+}
+
+
+.odd{
+    
+        display: none;
+
+    
+}
+    
+.odd one,.two{
+    
+    visibility: hidden;
+}
+

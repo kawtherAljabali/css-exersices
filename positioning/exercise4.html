@@ -5,29 +5,54 @@
     <title>Exercise #4: Layout</title>
     <style>
         * {
-            margin: 0px;
+            margin: 0px,auto;
         }
 
         header {
             background-color: #ebde52;
             height: 80px;
+            width: 100%
         }
 
         nav {
             width: 20%;
             padding-top: 20px;
+            float: left;
+            display: inline-block;
+            background-color: #e3e3e3;
+            width: 260px;
+            height:960px 
+            
+	      
+                
         }
 
         main {
+            float: right;
             position: absolute;
             top: 80px; /* same as the height of header */
             left: 20%; /* same as the width of nav */
             width: 80%;
             padding-top: 20px;
+             height:960px ;
+             background-color: white;
+            margin: auto;
+            display: inline-block
+            	   
+
+
         }
+        
+        
 
         p {
             margin: 1em;
+        }
+        
+        body{
+            
+            background-color: #ffffcc;
+                
         }
     </style>
 </head>
